@@ -1,3 +1,3 @@
 # Fizzbuzz.rb
 
-Ruby version of Fizzbuzz
+Fizzbuzz in Ruby
